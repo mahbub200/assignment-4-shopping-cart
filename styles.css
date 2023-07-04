@@ -1,5 +1,10 @@
 /* styles.css */
-
+body{
+  background-color: #F7EDEB;
+}
+h2{
+  text-align: center;
+}
 .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -11,8 +16,14 @@
   
   .product-list {
     text-align: center;
-    display: grid;
+   
+    
     grid-gap: 1rem;
+  }
+  #product-list{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
   }
   .product-items{
     background-color: #e43636;
@@ -37,6 +48,9 @@
   
   .card-text {
     margin-bottom: 0.5rem;
+  }
+  .card-mb-2{
+    background-color: #dc3545;
   }
   
   .btn-primary {

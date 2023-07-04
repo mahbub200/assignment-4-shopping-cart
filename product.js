@@ -15,23 +15,58 @@ const products = [
   {
     id: 3,
     name: "Lenovo IdeaPad Slim 3i Intel Celeron N4020 15.6' HD Laptop",
-    price: 200,
+    price: 300,
     image:
-      "https://www.startech.com.bd/lenovo-ideapad-slim-3i-intel-celeron-n4020-hd-laptop",
+      "https://cloud.ryanscomputers.com/cdn/products/small/lenovo-ideapad-1-15ada7-amd-ryzen-3-3250u-156-11663994978.webp",
   },
   {
     id: 4,
-    name: "Asus Vivobook X515KA Celeron N4500 15.6' HD Laptop",
-    price: 200,
+    name: "Realme Book i5 Intel Core i5 1135G7 14 Inch 2K IPS Display Blue Laptop",
+    price: 400,
     image:
-      "https://www.startech.com.bd/asus-vivobook-x515ka-celeron-n4500-laptop",
+      "https://cloud.ryanscomputers.com/cdn/products/small/realme-book-i5-intel-core-i5-1135g7-14-inch-2k-11654576562.webp",
   },
   {
     id: 5,
-    name: "ASUS FX506HF-ES51 TUF Gaming F15 Gaming Laptop,",
-    price: 200,
+    name: "Asus P1511CMA Intel Celeron N4020 15.6-Inch HD Laptop ",
+    price: 500,
     image:
-      "https://www.amazon.com/ASUS-FX506HF-ES51-Display-i5-11400H-Processor/dp/B0BWHJQMKH?ref_=Oct_d_omwf_d_565108_1&pd_rd_w=h22NX&content-id=amzn1.sym.16d13a9d-8297-4600-8ace-5f4fa6eab345&pf_rd_p=16d13a9d-8297-4600-8ace-5f4fa6eab345&pf_rd_r=J0KDEC4V30FMVQ1DH41E&pd_rd_wg=S6kMO&pd_rd_r=94342c27-3ecc-42c6-afd2-c0e30b6a0b42&pd_rd_i=B0BWHJQMKH",
+      "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p1511cma/p1511cma-slate-grey-01-228x228.webp",
+  },
+  {
+    id: 6,
+    name: "Acer Aspire 5 A515-56-347N Slim Laptop ",
+    price: 600,
+    image:
+      "https://m.media-amazon.com/images/I/71pvhTrmZDL._AC_SR480,570_.jpg",
+  },
+  {
+    id: 7,
+    name: "HP Spectre X360 14-Ef0000TU i7-1255U 13.5″ 3K2K OLED Touch 2-In-1 16GB RAM 1TB SSD Display Laptop ",
+    price: 700,
+    image:
+      "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/a452da278a89f00548b398f225b4466e/h/p/hp-spectre-x360-14-ef0000tu-13.4.23..jpg",
+  },
+  {
+    id: 8,
+    name: "Dell Vostro 3400 Core i3 11th Gen 4GB RAM 1TB UHD14' FHD Laptop",
+    price: 800,
+    image:
+      "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/a452da278a89f00548b398f225b4466e/d/e/dell-101.jpg",
+  },
+  {
+    id: 9,
+    name: "Dell Latitude 3420 Core i5 11th Gen 8GB RAM 512GB SSD 14' FHD Laptop,",
+    price: 900,
+    image:
+      "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/a452da278a89f00548b398f225b4466e/l/a/latitude-1.jpg",
+  },
+  {
+    id: 10,
+    name: "Lenovo Legion 5 15ITH6H Intel Core i5-11400H 15.6” FHD 120Hz 8GB RAM 512GB SSD Gaming Laptop,",
+    price: 1000,
+    image:
+      "https://azse77seaprodsa.blob.core.windows.net/b2b-dr-pickaboocdn/media/catalog/product/cache/a452da278a89f00548b398f225b4466e/l/e/legion-5-15ith6h.jpg",
   },
 ];
 
