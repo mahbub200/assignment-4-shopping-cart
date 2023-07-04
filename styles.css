@@ -1,0 +1,121 @@
+/* styles.css */
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .product-list {
+    text-align: center;
+    display: grid;
+    grid-gap: 1rem;
+  }
+  .product-items{
+    background-color: #e43636;
+  }
+  
+  .cart {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-text {
+    margin-bottom: 0.5rem;
+  }
+  
+  .btn-primary {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+    margin :2px;
+  }
+  
+  /* Cart */
+  .cart-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .cart-item-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .cart-item-text {
+    margin-bottom: 0.5rem;
+  }
+  
+  .quantity-control {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .quantity-control button {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    font-size: 1rem;
+    border: none;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  
+  .quantity-control span {
+    display: inline-block;
+    width: 40px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .discount-form {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+  
+  .discount-form input {
+    width: 80px;
+  }
+  
+  .btn-warning {
+    display: block;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: #ffc107;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem;
+  }
